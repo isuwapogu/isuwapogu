@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Website</title>
+</head>
+<body>
+    <h1>Hello, World!</h1>
+    <p>This is my first paragraph.</p>
+</body>
+</html>    h1 {
+    color: blue;
+    font-size: 36px;
+}
+
+p {
+    color: gray;
+}  <script>
+    alert("Welcome to my website!");
+</script>
